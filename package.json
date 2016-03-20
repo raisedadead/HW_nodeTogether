@@ -1,0 +1,23 @@
+{
+  "name": "nodetogether",
+  "version": "1.0.0",
+  "description": "What's the Cycle?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raisedadead/HW_nodeTogether.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raisedadead/HW_nodeTogether/issues"
+  },
+  "homepage": "https://github.com/raisedadead/HW_nodeTogether#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
